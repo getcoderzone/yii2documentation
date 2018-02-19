@@ -55,7 +55,9 @@ pre {
 }
 
 .sidebar .nav-link.active {
-    color: #007bff;
+    color: #fbfbfb;
+    background: #272b30;
+
 }
 
 .sidebar .nav-link:hover .feather,
