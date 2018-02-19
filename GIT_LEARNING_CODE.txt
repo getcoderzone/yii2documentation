@@ -1,0 +1,39 @@
+1. First Install Git 
+
+then 
+
+Github Repository: https://github.com/getcoderzone/yii2documentation
+
+
+2.  git clone
+	git pull
+	git add *
+	git commit -m "Your Comment"
+	git push origin master
+	
+https://getcoderzone.github.io/yii2documentation/
+
+
+apne 10 number menu nia kaj koren
+
+ok vai
+
+scrennshort use korte paren
+
+screenshot kivabe use korbo vai
+
+image use koren 
+if possible   okay?
+
+ok vai
+
+first rename this file name practice-09.html  to advanced-template-crud-using-gii.html 
+
+then edit this file
+
+crud die kivabe controller, model, views create kora jay
+tai ekhane hobena vai
+
+agulor jonno screenshot use korte paren
+
+10 no menute controller, model, views create kora jay kivabe tai hobena vai
